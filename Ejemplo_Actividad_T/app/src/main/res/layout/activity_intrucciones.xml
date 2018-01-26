@@ -31,7 +31,7 @@
                 android:layout_marginTop="5dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Presiona regresar para volver al inicio, o siguiente para ir a la otra actividad"
+                android:text="Presiona regresar para regresar al inicio, o siguiente para ir a la otra actividad"
                 android:textStyle="bold"
                 android:textSize="20sp"
                 android:gravity="center"/>
